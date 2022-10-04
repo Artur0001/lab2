@@ -1,0 +1,15 @@
+C:\Users\volos\RiderProjects\Lab1\Employee\bin\Debug\net7.0\Employee.exe
+C:\Users\volos\RiderProjects\Lab1\Employee\bin\Debug\net7.0\Employee.deps.json
+C:\Users\volos\RiderProjects\Lab1\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+C:\Users\volos\RiderProjects\Lab1\Employee\bin\Debug\net7.0\Employee.dll
+C:\Users\volos\RiderProjects\Lab1\Employee\bin\Debug\net7.0\Employee.pdb
+C:\Users\volos\RiderProjects\Lab1\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+C:\Users\volos\RiderProjects\Lab1\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volos\RiderProjects\Lab1\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+C:\Users\volos\RiderProjects\Lab1\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+C:\Users\volos\RiderProjects\Lab1\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\volos\RiderProjects\Lab1\Employee\obj\Debug\net7.0\Employee.dll
+C:\Users\volos\RiderProjects\Lab1\Employee\obj\Debug\net7.0\refint\Employee.dll
+C:\Users\volos\RiderProjects\Lab1\Employee\obj\Debug\net7.0\Employee.pdb
+C:\Users\volos\RiderProjects\Lab1\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+C:\Users\volos\RiderProjects\Lab1\Employee\obj\Debug\net7.0\ref\Employee.dll

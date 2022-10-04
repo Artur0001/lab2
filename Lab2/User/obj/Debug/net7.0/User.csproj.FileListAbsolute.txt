@@ -1,0 +1,15 @@
+C:\Users\volos\RiderProjects\Lab1\User\bin\Debug\net7.0\User.exe
+C:\Users\volos\RiderProjects\Lab1\User\bin\Debug\net7.0\User.deps.json
+C:\Users\volos\RiderProjects\Lab1\User\bin\Debug\net7.0\User.runtimeconfig.json
+C:\Users\volos\RiderProjects\Lab1\User\bin\Debug\net7.0\User.dll
+C:\Users\volos\RiderProjects\Lab1\User\bin\Debug\net7.0\User.pdb
+C:\Users\volos\RiderProjects\Lab1\User\obj\Debug\net7.0\User.csproj.AssemblyReference.cache
+C:\Users\volos\RiderProjects\Lab1\User\obj\Debug\net7.0\User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volos\RiderProjects\Lab1\User\obj\Debug\net7.0\User.AssemblyInfoInputs.cache
+C:\Users\volos\RiderProjects\Lab1\User\obj\Debug\net7.0\User.AssemblyInfo.cs
+C:\Users\volos\RiderProjects\Lab1\User\obj\Debug\net7.0\User.csproj.CoreCompileInputs.cache
+C:\Users\volos\RiderProjects\Lab1\User\obj\Debug\net7.0\User.dll
+C:\Users\volos\RiderProjects\Lab1\User\obj\Debug\net7.0\refint\User.dll
+C:\Users\volos\RiderProjects\Lab1\User\obj\Debug\net7.0\User.pdb
+C:\Users\volos\RiderProjects\Lab1\User\obj\Debug\net7.0\User.genruntimeconfig.cache
+C:\Users\volos\RiderProjects\Lab1\User\obj\Debug\net7.0\ref\User.dll
